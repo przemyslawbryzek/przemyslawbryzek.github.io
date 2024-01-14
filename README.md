@@ -10,6 +10,6 @@ Miejscowość: Kraków
 * 10.2023 - teraz <br />
     Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie <br />
     Poziom wykształcenia: wyższe
-  ## Znajomość języków
-  angielski: poziom podstawowy
+## Znajomość języków
+angielski: poziom podstawowy
 > Zgadzam się na przetwarzanie danych osobowych zawartych w moim CV lub w innych dokumentach dołączonych do CV (moje zgłoszenie rekrutacyjne), dla celów prowadzenia rekrutacji na stanowisko wskazane w ogłoszeniu o pracę. Dodatkowo zgadzam się na przetwarzanie przez pracodawcę danych osobowych zawartych w moim zgłoszeniu rekrutacyjnym dla celów przyszłych rekrutacji.
